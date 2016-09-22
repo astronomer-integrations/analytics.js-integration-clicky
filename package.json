@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-clicky",
+  "name": "@astronomerio/analytics.js-integration-clicky",
   "description": "The Clicky analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
